@@ -8,6 +8,8 @@ An API wrapper for [itch.io](https://itch.io)
 
 ## Notes
 
+API usage is best demonstrated by the [tests](tests/lib.rs).
+
 If you ever want an endpoint to be added, just [open an issue](issues/new)!
 
 Itch.io's [API reference](https://itch.io/docs/api/serverside) is not great. A bunch of endpoints are missing/undocumented.
