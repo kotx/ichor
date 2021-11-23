@@ -1,5 +1,9 @@
 # Ichor
 
+[![Crates.io](https://img.shields.io/crates/v/ichor?style=flat-square)](https://crates.io/crates/ichor)
+[![docs.rs](https://img.shields.io/docsrs/ichor?style=flat-square)](https://docs.rs/ichor)
+![Crates.io](https://img.shields.io/crates/d/ichor?style=flat-square)
+
 An API wrapper for [itch.io](https://itch.io)
 
 ## Notes
